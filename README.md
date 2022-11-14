@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Th0rnike/Skilled-learning-landing-page)
+- Live Site URL: [Live site URL here](https://th0rnike.github.io/Skilled-learning-landing-page/)
 
 ### Built with
 
